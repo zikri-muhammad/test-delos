@@ -1,4 +1,2 @@
-# test-delos
-
-how to run 
+# how to run
 node delos.js
